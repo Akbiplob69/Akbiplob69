@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://scontent.fdac4-1.fna.fbcdn.net/v/t39.30808-6/279716338_145704241362476_8106371851880931015_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHWs7vKYylzDSrVfs0oovWDEvy1MQ9fZFsS_LUxD19kW_LMEQ0ZFpJE-wxAVdZes52Qkkp1Fl812yVtkxSJKg7H&_nc_ohc=3ic8YgZZ3MMAX8OoWk6&_nc_zt=23&_nc_ht=scontent.fdac4-1.fna&oh=00_AT9d7eBbN7f_9pivuuYdumley3MFh8ueRvqy19hK5MSxYw&oe=62D8F136)
 
-### Hi there 👋, my name is Arturs
+### Hi there 👋, My name is A K Biplob
 #### I am GitHub Readme Generator's creator
 
 
